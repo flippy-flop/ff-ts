@@ -1,0 +1,35 @@
+{
+  "name": "ff-ts",
+  "version": "1.0.0",
+  "description": "A TypeScript implementation of the Flippy Flop data structure.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ff.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flippy-flop/ff-ts.git"
+  },
+  "keywords": [
+    "flippy",
+    "flop",
+    "data",
+    "structure",
+    "container",
+    "typescript"
+  ],
+  "author": {
+    "name": "Shakeel Mohamed",
+    "email": "contact@shakeelmohamed.com",
+    "url": "https://ShakeelMohamed.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flippy-flop/ff-ts/issues"
+  },
+  "homepage": "https://github.com/flippy-flop/ff-ts#readme",
+  "dependencies": {
+    "tsc": "^1.20150623.0",
+    "tslint": "^5.10.0"
+  }
+}
